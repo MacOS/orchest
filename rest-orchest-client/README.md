@@ -247,4 +247,4 @@ Generated code is produced by [OpenAPI Generator](https://openapi-generator.tech
 
 ## License
 
-Proprietary – Deutsche Telekom AG.
+Apache License, Version 2.0

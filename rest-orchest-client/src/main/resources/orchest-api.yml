@@ -6,7 +6,7 @@ info:
     name: DOT Team Tyrell
     email: teamtyrell@telekom-digital.com
   license:
-    name: Proprietary license
+    name: Apache License, Version 2.0
     identifier: "version"
   version: 1.0.0
   x-api-category: other
