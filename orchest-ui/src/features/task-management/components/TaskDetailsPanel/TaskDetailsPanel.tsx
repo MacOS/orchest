@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/design-system/components/ui/tabs';
 import { BackButton, InstanceSummary, StatusBadge, SummaryField } from '@/shared/components';
 import { PriorityBadge } from '@/shared/components/PriorityBadge/PriorityBadge';

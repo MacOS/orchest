@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { MIME_TYPES } from "@/shared/constants";
 import { DiagramViewer } from "../hooks/useDiagramViewer";
 

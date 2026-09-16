@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 /* Instance ID cell with inline status indicator */
 .idCell {
   display: inline-flex;

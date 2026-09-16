@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 package io.telekom.orchest.client.configuration;
 
 import static io.telekom.orchest.adapter.kafka.client.KafkaConstant.ORCHEST_SPRING_CLIENT_CONSUMER_FACTORY_BEAN_NAME;

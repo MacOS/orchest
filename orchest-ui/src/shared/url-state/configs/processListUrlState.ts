@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { FilterValue, ProcessStatus } from '@/shared/constants/status';
 import type { SortDirection } from '@/shared/components/DataTable/types';
 import { buildSearchParams } from '../buildSearchParams';

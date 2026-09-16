@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 /**
  * Magenta intensity steps for heatmaps — platform brand (`--color-magenta`).
  * Built with color-mix so we stay on-token without a full magenta scale.

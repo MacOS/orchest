@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import * as TabsPrimitive from "@radix-ui/react-tabs";
 import clsx from "clsx";
 import * as React from "react";

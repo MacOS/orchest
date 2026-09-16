@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 export { ProcessInstanceState } from './ProcessInstanceState';
 export { VariableAction } from './VariableAction';
 export { NodeType } from './NodeType';

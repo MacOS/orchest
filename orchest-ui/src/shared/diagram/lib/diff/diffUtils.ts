@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 interface Canvas {
   viewbox: (viewbox?: unknown) => unknown;
   zoom: (zoom: number | string, center?: string) => void;

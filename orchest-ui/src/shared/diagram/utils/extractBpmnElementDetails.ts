@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 /**
  * Extracts definition-time Zeebe/BPMN details from a bpmn-js businessObject.
  */

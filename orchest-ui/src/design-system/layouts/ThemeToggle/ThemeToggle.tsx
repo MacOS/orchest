@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { toast } from "@/design-system/components/ui/sonner";
 import { useIsDarkMode, useUIStore } from "@/shared/stores/uiStore";
 import { Moon, Sun } from "lucide-react";

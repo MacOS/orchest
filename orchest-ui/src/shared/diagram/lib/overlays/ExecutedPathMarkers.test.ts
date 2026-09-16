@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import type { SequenceExecution } from "@/api/types/orchest-api";
 import { NodeType, ProcessInstanceState } from "@/shared/enums";
 import { describe, expect, it, vi } from "vitest";

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 /**
  * Timeline configuration constants
  * Used by TaskTimeline component for animation and loading states

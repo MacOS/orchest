@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 /* eslint-disable react-refresh/only-export-components */
 import { RouteGuard } from '@/shared/auth';
 import { PageLoader } from '@/shared/components';

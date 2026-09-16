@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { ErrorBoundary } from '@/shared/error/ErrorBoundary';
 import { globalErrorHandler } from '@/shared/error/globalErrorHandler';
 import styles from './RouteErrorBoundary.module.css';

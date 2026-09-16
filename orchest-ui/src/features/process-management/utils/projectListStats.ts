@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import type { OrchestStatItem, OrchestStatsDTO } from "@/api/types/orchest-api";
 import type { OrchestStatsQuerySlice } from "@/api/domains";
 import { toISODateTime } from "@/api/core/utils/dateUtils";

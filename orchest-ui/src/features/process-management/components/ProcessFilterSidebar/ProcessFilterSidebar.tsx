@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { Separator } from '@/design-system/components/ui/separator';
 import { useAuth, UserRoles } from '@/shared/auth';
 import { FilterSidebar } from '@/shared/components';

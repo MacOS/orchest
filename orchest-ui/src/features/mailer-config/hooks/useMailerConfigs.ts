@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { mailerConfigService } from '@/api/domains/mailer-config';
 import type { MailerConfigRequest } from '@/api/domains/mailer-config';
 import { useApiMutation, useApiQuery } from '@/shared/hooks';

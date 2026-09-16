@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { TIMING } from '@/shared/constants';
 import { toError } from '@/shared/hooks/useErrorHandling';
 import { useStableCallback } from '@/shared/hooks/useStableCallback';

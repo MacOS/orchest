@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { ScrollArea } from "@/design-system/components/ui/scroll-area";
 import { Switch } from "@/design-system/components/ui/switch";
 import { Button } from "@/design-system/components/ui/button";

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { AlertCircle, Circle, CheckCircle2 } from "lucide-react";
 import clsx from "clsx";
 import { getBpmnNodeIcon } from "./BpmnNodeIcons";

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { Button } from '@/design-system/components/ui/button';
 import { DateRangePicker } from '@/design-system/components/ui/date-range-picker';
 import { Input } from '@/design-system/components/ui/input';

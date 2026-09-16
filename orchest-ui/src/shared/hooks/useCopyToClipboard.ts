@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { useCallback, useState } from "react";
 import { toast } from "@/design-system/components/ui/sonner";
 import { TIMING } from "@/shared/constants";

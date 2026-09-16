@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { chatService, type ChatType } from '@/api/domains/chat';
 import { toast } from '@/design-system/components/ui/sonner';
 import { useCallback, useRef } from 'react';

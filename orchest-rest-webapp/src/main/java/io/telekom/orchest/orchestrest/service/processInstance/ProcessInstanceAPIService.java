@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 package io.telekom.orchest.orchestrest.service.processInstance;
 
 import static io.telekom.orchest.orchestrest.configurations.security.AuthWebFilter.READ_USER_NON_SENSITIVE;

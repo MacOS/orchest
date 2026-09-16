@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { processInstanceService, decisionInstanceService } from "@/api/domains";
 import { Command } from "cmdk";
 import clsx from "clsx";

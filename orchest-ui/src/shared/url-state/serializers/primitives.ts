@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 export function serializeString(value: string | null | undefined): string | undefined {
   const trimmed = value?.trim();
   return trimmed ? trimmed : undefined;

@@ -1,4 +1,9 @@
 #!/bin/sh
+
+# SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+#
+# SPDX-License-Identifier: Apache-2.0
+
 set -eu
 
 TEMPLATE=/etc/orchest/runtime-config.js.template

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { BADGE_STYLES, VARIABLE_TYPE_STYLES, VARIABLE_SCOPE_STYLES, type BadgeStyle } from '@/shared/constants/badgeStyles';
 import { ProcessStatus } from '@/shared/constants';
 

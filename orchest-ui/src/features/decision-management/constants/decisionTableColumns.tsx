@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { DECISION_TRANSLATIONS } from '@/features/decision-management/constants/translations';
 import { DateCell, StatusBadge, type Column } from '@/shared/components';
 import { SmartText } from '@/shared/components/SmartText/SmartText';

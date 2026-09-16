@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { toast as sonnerToast } from '@/design-system/components/ui/sonner';
 import { useIsDarkMode } from '@/shared/stores/uiStore';
 

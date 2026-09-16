@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { bracketMatching, defaultHighlightStyle, syntaxHighlighting } from "@codemirror/language";
 import { xml as xmlLang } from "@codemirror/lang-xml";
 import { EditorState } from "@codemirror/state";

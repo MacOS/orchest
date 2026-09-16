@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 /**
  * Known timezone offsets in minutes from UTC.
  * Positive = ahead of UTC, Negative = behind UTC.

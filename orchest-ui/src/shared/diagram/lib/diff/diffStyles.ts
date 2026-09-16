@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 export const DIFF_STYLES = `
 .diff-added .djs-visual > :nth-child(1) {
   stroke: #52c41a !important;

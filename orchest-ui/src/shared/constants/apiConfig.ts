@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 export const HTTP_CLIENT_CONFIG = {
   DEFAULT_TIMEOUT: 60000,
   MAX_RETRIES: 3,

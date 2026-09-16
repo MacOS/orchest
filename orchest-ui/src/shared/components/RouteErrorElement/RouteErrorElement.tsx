@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/design-system/components/ui/card';
 import { globalErrorHandler } from '@/shared/error/globalErrorHandler';
 import { Button } from "@/design-system/components/ui/button";

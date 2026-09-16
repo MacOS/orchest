@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 /**
  * Development Token Generator
  * Generates mock JWT tokens when VITE_BYPASS_LOGIN is enabled.

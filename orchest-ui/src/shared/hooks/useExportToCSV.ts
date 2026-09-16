@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { globalErrorHandler } from "@/shared/error/globalErrorHandler";
 import { toast } from "@/design-system/components/ui/sonner";
 import { useCallback, useState } from "react";

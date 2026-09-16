@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+#
+# SPDX-License-Identifier: Apache-2.0
+
 ARG DOCKER_REGISTRY_URL="mtr.devops.telekom.de"
 ARG DOCKER_REGISTRY_BASE_GROUP=community
 ARG DOCKER_REGISTRY_BASE_IMAGE=nginx:1.31

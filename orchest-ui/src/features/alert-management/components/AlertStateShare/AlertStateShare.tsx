@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import type { OpsAlertState } from '@/features/alert-management/hooks/useAlertsData';
 import React, { useMemo } from 'react';
 import styles from './AlertStateShare.module.css';

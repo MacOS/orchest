@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { StorageUtils } from '@/shared/utils/storageUtils';
 import React, { createContext, ReactNode, useContext, useState, useEffect, useRef, useCallback, useMemo } from 'react';
 

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { auditTrailService } from '@/api/domains/audit-trail';
 import { useApiQuery } from '@/shared/hooks';
 import { useCallback, useMemo, useState } from 'react';

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { FilterSidebar } from '@/shared/components';
 import { Mail, Settings, Variable, ShieldCheck, Power } from 'lucide-react';
 import React from 'react';

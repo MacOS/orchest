@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 export { ACCESS_FREE_PATHS, AuthProvider, PATH_PERMISSIONS, useAuth } from './context/AuthContext';
 export type { AuthContextType } from './context/AuthContext';
 

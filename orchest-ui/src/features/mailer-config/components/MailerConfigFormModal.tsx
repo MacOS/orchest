@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import type { AlertingMailerConfig, MailerConfigRequest } from '@/api/domains/mailer-config';
 import { Button } from '@/design-system/components/ui/button';
 import { Combobox } from '@/design-system/components/ui/combobox';

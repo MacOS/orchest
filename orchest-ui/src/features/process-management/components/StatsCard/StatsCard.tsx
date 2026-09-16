@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import React, { useMemo } from "react";
 import { StatsCardColor } from "@/shared/enums";
 import { Activity, Ban, CheckCircle2, Layers, OctagonAlert, Pause, TriangleAlert } from "lucide-react";

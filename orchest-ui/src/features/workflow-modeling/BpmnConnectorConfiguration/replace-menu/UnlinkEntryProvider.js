@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { isDifferentType } from 'bpmn-js/lib/features/popup-menu/util/TypeUtil';
 import { getReplaceOptions } from './util/ReplaceOptionsUtil';
 

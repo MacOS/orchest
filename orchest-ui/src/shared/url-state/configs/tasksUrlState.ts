@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { DEFAULT_FILTERS, DEFAULT_SORT, SORT_OPTIONS } from '@/features/task-management/constants/filterOptions';
 import { buildSearchParams } from '../buildSearchParams';
 import { parseEnum, serializeEnum } from '../serializers/primitives';

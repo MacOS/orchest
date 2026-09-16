@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import clsx from 'clsx';
 import { Building2, Check } from 'lucide-react';
 import React, { useCallback, useEffect, useState } from 'react';

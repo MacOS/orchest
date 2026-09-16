@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { DiagramControlBar } from "@/shared/diagram/components/DiagramControlBar/DiagramControlBar";
 import { ExportFormat } from "@/shared/enums";
 import { memo, ReactNode } from "react";

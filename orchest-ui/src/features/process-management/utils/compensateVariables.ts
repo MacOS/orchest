@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 export type ParseCompensateVariablesResult =
   | { ok: true; variables?: Record<string, unknown> }
   | { ok: false; error: string };

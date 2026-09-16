@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { decisionInstanceService, feelPlaygroundService, processInstanceService } from "@/api/domains";
 import type { SequenceExecution } from "@/api/types/orchest-api";
 import { DiagramViewer } from "@/shared/diagram/hooks/useDiagramViewer";

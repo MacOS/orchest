@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import clsx from 'clsx';
 import { forwardRef, type HTMLAttributes, type ReactNode } from 'react';
 import styles from './GlassSurface.module.css';

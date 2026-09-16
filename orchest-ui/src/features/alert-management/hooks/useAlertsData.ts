@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { alertService, type AlertState } from '@/api/domains/alerts';
 import { toast } from '@/design-system/components/ui/sonner';
 import { queryKeys } from '@/shared/constants/queryKeys';

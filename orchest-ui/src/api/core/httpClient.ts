@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { PagedResponse } from "@/api/types/types";
 import { EXTERNAL_API_DOMAINS, MIME_TYPES } from "@/shared/constants";
 import { HTTP_CLIENT_CONFIG } from "@/shared/constants/apiConfig";

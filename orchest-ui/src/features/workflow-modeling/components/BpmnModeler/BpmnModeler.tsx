@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { processDefinitionService } from "@/api/domains";
 import { useIsDarkMode } from "@/shared/stores/uiStore";
 import { DiagramViewer } from "@/shared/diagram/hooks/useDiagramViewer";

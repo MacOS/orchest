@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 // Helper interfaces for common diagram services
 export interface OverlaysService {
   add: (elementId: string, overlay: { position: { top?: number; right?: number; bottom?: number; left?: number }; html: string; type?: string; id?: string }) => string;

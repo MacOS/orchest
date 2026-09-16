@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import React from 'react';
 import { Badge } from '@/design-system/components/ui/badge/badge';
 import { getBadgeStyleForPriority } from '@/shared/utils/badgeUtils';

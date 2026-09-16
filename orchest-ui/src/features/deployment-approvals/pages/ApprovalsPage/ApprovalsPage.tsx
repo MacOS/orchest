@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { deploymentApprovalsService } from '@/api/domains';
 import { Button } from '@/design-system/components/ui/button';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/design-system/components/ui/tabs';

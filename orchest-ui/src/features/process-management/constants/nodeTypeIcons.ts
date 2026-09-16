@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import andGatewayIcon from "@/assets/bpmn/and-gateway.svg";
 import businessRuleTaskIcon from "@/assets/bpmn/business-rule-task.svg";
 import callActivityIcon from "@/assets/bpmn/call-activity.svg";

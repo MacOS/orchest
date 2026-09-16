@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import type { UrlFieldDef, UrlStateSchema } from './types';
 
 export interface ParseResult<T> {

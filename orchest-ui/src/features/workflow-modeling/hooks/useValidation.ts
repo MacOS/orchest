@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import Linter from 'bpmnlint/lib/linter';
 import { useCallback, useState } from 'react';
 import { bpmnlintResolver, lintConfig } from '../config/bpmnlintConfig';

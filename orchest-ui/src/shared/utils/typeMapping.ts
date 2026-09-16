@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
 
 import { DecisionInstanceDTO, ProcessInstanceDTO } from "@/api/domains";
 import { ProcessInstance as ContextProcessInstance, DecisionInstance as ContextDecisionInstance } from "@/shared/types";

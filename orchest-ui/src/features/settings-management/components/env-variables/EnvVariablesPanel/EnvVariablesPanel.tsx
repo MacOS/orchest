@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import type { EnvVariableType, ProcessEnvVariable } from '@/api/domains/process-env-variables';
 import { useAuth, UserRoles } from '@/shared/auth';
 import { Button } from '@/design-system/components/ui/button';

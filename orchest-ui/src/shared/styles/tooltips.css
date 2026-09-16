@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 /* Radix UI tooltips */
 [data-radix-tooltip-content] {
   /* Override Radix UI Tooltip default styles for consistent app theme */

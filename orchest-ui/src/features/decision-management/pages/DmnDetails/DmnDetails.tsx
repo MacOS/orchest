@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { decisionInstanceService } from "@/api/domains";
 import { Badge } from "@/design-system/components/ui/badge/badge";
 import { useRoles } from '@/shared/auth';

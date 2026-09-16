@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import type { AlertState } from '@/api/domains/alerts';
 import type { BadgeProps } from '@/design-system/components/ui/badge/badge';
 import type { LucideIcon } from 'lucide-react';

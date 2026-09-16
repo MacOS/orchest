@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import React from "react";
 import { useJsonFormatter } from "@/shared/hooks/useJsonFormatter";
 import styles from "./JsonDisplay.module.css";

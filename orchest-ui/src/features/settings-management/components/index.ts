@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 export { default as SettingsFilterSidebar } from './SettingsFilterSidebar';
 export { default as SettingsNavSidebar } from './SettingsNavSidebar/SettingsNavSidebar';
 export type { SettingsTab } from './SettingsNavSidebar/SettingsNavSidebar';

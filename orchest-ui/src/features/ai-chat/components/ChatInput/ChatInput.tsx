@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import type { ChatType } from '@/api/domains/chat';
 import { ArrowUp, FileSearch, AlertTriangle, Wrench, Square } from 'lucide-react';
 import React, { useCallback, useRef, useState } from 'react';

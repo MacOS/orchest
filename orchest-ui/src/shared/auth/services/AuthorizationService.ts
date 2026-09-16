@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { toError } from '@/shared/hooks/useErrorHandling';
 import { isNoLoginMode } from '@/shared/utils/environmentUtils';
 import { StorageUtils } from '@/shared/utils/storageUtils';

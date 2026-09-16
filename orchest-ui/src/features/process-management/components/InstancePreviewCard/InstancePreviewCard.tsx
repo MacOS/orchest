@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { processInstanceService } from "@/api/domains";
 import type { ProcessInstanceDTO } from "@/api/types/orchest-api";
 import * as Popover from "@radix-ui/react-popover";

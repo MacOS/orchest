@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # OrchesT REST Client
 
 Pure Java client library for the [OrchesT](https://github.com/platform/orchest-v2) REST API. Built with **OkHttp** and **Gson**; no Spring or other framework dependencies. Use it from plain Java, Spring Boot, Ktor, or any JVM environment.

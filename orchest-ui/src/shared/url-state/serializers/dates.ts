@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 /**
  * Dates stored as YYYY-MM-DD or YYYY-MM-DDTHH:mm to support time selection.
  */

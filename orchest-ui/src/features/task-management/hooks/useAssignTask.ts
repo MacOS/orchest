@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { userTaskService } from '@/api/domains';
 import { AssignTaskRequest } from '@/api/types/orchest-api';
 import { queryKeys } from '@/shared/constants/queryKeys';

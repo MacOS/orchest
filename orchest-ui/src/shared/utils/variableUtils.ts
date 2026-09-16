@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { globalErrorHandler } from '../error/globalErrorHandler';
 import { toError } from '../hooks/useErrorHandling';
 import standardModalStyles from '@/shared/components/StandardModal/StandardModal.module.css';

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 /**
  * Resolve the MSAL active account, restoring from cache when needed.
  * After a cold start MSAL may have accounts in cache but no active account set.

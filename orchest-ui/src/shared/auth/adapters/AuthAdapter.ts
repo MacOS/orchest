@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 /**
  * Authentication Adapter Interface
  * Defines contract for different authentication strategies (MSAL vs Dev)

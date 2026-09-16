@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { describe, expect, it, vi } from 'vitest';
 import { createInfoCard } from './bpmnDomHelpers';
 import type { ElementDetailSection } from './extractBpmnElementDetails';

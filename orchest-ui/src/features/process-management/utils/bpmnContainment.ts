@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 /**
  * Parses a BPMN 2.0 XML string into the containment structure needed to build
  * a hierarchical execution history tree.

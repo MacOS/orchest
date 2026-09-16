@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { DataTable } from '@/shared/components/DataTable/DataTable';
 import { SmartText } from '@/shared/components/SmartText/SmartText';
 import AppLayout from '@/shared/layouts/AppLayout';

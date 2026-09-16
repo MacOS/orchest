@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { DEFAULT_FILTERS } from '@/features/task-management/constants/filterOptions';
 import type { ActiveTaskFilter } from '@/features/task-management/types';
 import {

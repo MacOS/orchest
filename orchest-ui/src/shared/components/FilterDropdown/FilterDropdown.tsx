@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { Select } from '@/design-system/components/ui/select';
 import clsx from 'clsx';
 import { useMemo } from 'react';

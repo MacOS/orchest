@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { X } from 'lucide-react';
 import React, { useCallback, useRef, useState } from 'react';
 import styles from './EmailTagInput.module.css';

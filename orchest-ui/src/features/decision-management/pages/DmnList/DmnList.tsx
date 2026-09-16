@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { DecisionPreviewCard } from '@/features/decision-management/components/DecisionPreviewCard/DecisionPreviewCard';
 import { getDecisionColumns } from '@/features/decision-management/constants/decisionTableColumns';
 import { DECISION_TRANSLATIONS } from '@/features/decision-management/constants/translations';

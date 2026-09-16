@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { useCallback, useEffect, useRef } from 'react';
 
 export function useStableCallback<T extends (...args: unknown[]) => unknown>(

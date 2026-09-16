@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import type { ResourceDeploymentRequestPayload } from '@/api/types/orchest-api';
 
 export function buildResourceDeploymentRequest(

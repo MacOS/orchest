@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+
+SPDX-License-Identifier: CC0-1.0
+-->
+
 # OrchesT UI
 
 Enterprise-grade React dashboard for BPMN process orchestration and DMN decision management with real-time monitoring and AI-powered workflow generation.

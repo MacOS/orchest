@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import type { SortConfig } from '@/shared/components/DataTable/types';
 import {
   DEFAULT_PROCESS_LIST_URL_STATE,

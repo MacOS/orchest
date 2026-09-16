@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { toast } from "@/design-system/components/ui/sonner";
 import OrchestBpmnThemeModule from "@/shared/diagram/bpmn-theme";
 import { getDiagramTheme } from "@/shared/diagram/lib/DiagramTheme";

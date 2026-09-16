@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { defaultKeymap, history, historyKeymap } from "@codemirror/commands";
 import { json as jsonLang } from "@codemirror/lang-json";
 import { bracketMatching } from "@codemirror/language";

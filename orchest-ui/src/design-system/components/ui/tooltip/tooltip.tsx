@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import * as TooltipPrimitive from "@radix-ui/react-tooltip";
 import * as React from "react";
 import clsx from "clsx";

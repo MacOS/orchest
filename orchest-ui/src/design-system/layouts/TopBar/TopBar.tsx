@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import React from "react";
 import { GlobalSearchBar } from "../GlobalSearchBar/GlobalSearchBar";
 import { TenantSelector } from "../TenantSelector/TenantSelector";

@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 /* BPMN connections - alle Pfeile schwarz im ProcessDiagramViewer */
 .process-diagram-viewer-wrapper .djs-connection .djs-visual > path {
   /* Override bpmn-js default marker stroke for visibility */

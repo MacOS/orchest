@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 package io.telekom.orchest.adapter.kafka.config;
 
 import static org.junit.jupiter.api.Assertions.*;

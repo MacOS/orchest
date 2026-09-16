@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import BaseRenderer from "diagram-js/lib/draw/BaseRenderer";
 import { getRoundRectPath } from "bpmn-js/lib/draw/BpmnRenderUtil";
 import { is, isAny } from "bpmn-js/lib/util/ModelUtil";

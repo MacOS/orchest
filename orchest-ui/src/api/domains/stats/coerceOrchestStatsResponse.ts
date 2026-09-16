@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import type { OrchestStatItem, OrchestStatsDTO } from "@/api/types/orchest-api";
 
 function readObject(value: unknown): Record<string, unknown> | null {

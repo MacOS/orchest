@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 /**
  * Overlay management utilities for BPMN/DMN diagrams
  * Provides safe overlay operations and batch management

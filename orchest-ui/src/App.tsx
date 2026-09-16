@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { Toaster as Sonner } from "@/design-system/components/ui/sonner";
 import { TooltipProvider } from "@/design-system/components/ui/tooltip/tooltip";
 import { AuthProvider } from "@/shared/auth";

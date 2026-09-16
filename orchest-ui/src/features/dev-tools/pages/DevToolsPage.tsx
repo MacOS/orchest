@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { Dialog, DialogContent, DialogHeader, DialogFooter, DialogTitle, DialogDescription } from "@/design-system/components/ui/dialog";
 import { MOCK_ROLES_STORAGE_KEY, UserRoles } from "@/shared/auth/models/roles";
 import { useAuth } from "@/shared/auth/context/AuthContext";
