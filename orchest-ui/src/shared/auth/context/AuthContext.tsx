@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { environment } from '@/shared/constants/environment';
 import { TIMING } from '@/shared/constants/ui.config';
 import { useTokenRefresh } from '@/shared/hooks/useTokenRefresh';

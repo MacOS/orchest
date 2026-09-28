@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { AlertCircle, Ban, Check, Pause } from "lucide-react";
 import type { ReactElement } from "react";
 import { renderToStaticMarkup } from "react-dom/server";

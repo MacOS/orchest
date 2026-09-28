@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import StatsCard from "@/features/process-management/components/StatsCard/StatsCard";
 import { StatsCardColor } from "@/shared/enums";
 import React, { useCallback } from "react";

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { deepEqual } from "@/shared/utils/deepEqual";
 import { clearTimeoutRef } from "@/shared/utils/timerUtils";
 import { useStableCallback } from "@/shared/hooks/useStableCallback";

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { healthService } from '@/api/domains/health/healthService';
 import type { ActuatorHealthResponse, DiskSpaceDetails, HealthComponent, HealthStatus } from '@/api/domains/health/healthService';
 import { Button } from '@/design-system/components/ui/button';

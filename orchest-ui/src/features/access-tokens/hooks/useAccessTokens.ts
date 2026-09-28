@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { apiTokensService } from '@/api/domains/api-tokens';
 import { useApiMutation, useApiQuery } from '@/shared/hooks';
 import { useCallback } from 'react';

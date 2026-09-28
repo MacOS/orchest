@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { ExportFormat } from "@/shared/enums";
 import { DiagramTypeValue } from "@/shared/enums/DiagramType";
 import { globalErrorHandler } from "@/shared/error/globalErrorHandler";

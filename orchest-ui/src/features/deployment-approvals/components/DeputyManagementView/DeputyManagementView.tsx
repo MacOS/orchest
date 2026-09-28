@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { Accordion } from '@/design-system/components/ui/accordion';
 import { EmptyState } from '@/shared/components/EmptyState/EmptyState';
 import { SpinnerLoader } from '@/shared/components/Loader/Loader';

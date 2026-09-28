@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { ActionIconButton } from '@/shared/components/ActionIconButton/ActionIconButton';
 import { Loader2, User } from 'lucide-react';
 import React from 'react';

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { UserTaskDTO } from '@/api/types/orchest-api';
 import { TaskState } from '../constants/taskState';
 import { TaskSortField, SortDirection } from '../constants/filterOptions';

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import DOMPurify from 'dompurify';
 import React, { useCallback, useEffect, useRef } from 'react';
 import styles from './MarkdownRenderer.module.css';

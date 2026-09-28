@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { QUERY_CONFIG } from '@/shared/constants/apiConfig';
 import {
     QueryKey,

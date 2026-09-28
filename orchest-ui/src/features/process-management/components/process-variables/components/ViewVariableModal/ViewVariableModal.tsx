@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { InfoModal } from "@/shared/components";
 import { getVariableModalSize, getVariableModalContentClassName } from "@/shared/utils/variableUtils";
 import React, { useState } from "react";

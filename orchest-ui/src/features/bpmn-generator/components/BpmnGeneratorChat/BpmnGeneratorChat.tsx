@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { aiService as api, type ChatMessage } from "@/api/external";
 import { toast } from "@/design-system/components/ui/sonner";
 import { Textarea } from "@/design-system/components/ui/textarea";

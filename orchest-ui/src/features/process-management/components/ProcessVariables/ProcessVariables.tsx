@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { variablesService } from "@/api/domains";
 import { Input } from "@/design-system/components/ui/input";
 import { Skeleton } from "@/design-system/components/ui/skeleton";

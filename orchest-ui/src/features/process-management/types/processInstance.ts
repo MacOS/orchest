@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 // Re-export ProcessInstance from shared types for backward compatibility
 export { ProcessInstance } from '@/shared/types';
 

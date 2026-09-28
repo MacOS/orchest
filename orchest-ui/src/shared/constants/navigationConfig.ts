@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { FlaskConical, GitBranch, LayoutDashboard, ListTodo, LucideIcon, PenTool, Settings, Sparkles, Workflow } from 'lucide-react';
 import { UserRoles } from '../auth/models/roles';
 import { ROUTES } from './routes';

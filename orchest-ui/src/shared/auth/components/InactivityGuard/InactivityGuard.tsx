@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { TIMING } from '@/shared/constants/ui.config';
 import { Button } from '@/design-system/components/ui/button';
 import { toast } from '@/design-system/components/ui/sonner';

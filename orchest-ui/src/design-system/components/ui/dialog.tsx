@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import * as DialogPrimitive from "@radix-ui/react-dialog";
 import clsx from "clsx";
 import { X } from "lucide-react";

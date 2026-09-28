@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { ApprovalState, NodeType, ProcessInstanceState, VariableAction } from '@/shared/enums';
 import { PagedResponse, ResponseDTO } from './types';
 

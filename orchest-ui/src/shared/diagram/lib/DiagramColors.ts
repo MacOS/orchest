@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 /**
  * Central Diagram Theme Configuration
  * Single source of truth for all BPMN/DMN diagram container styling

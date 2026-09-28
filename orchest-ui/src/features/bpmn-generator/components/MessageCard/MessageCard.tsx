@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { useTimeout } from "@/shared/hooks";
 import clsx from "clsx";
 import DOMPurify from "dompurify";

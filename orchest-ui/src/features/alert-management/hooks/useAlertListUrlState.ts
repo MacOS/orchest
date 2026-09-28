@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import {
   DEFAULT_ALERT_LIST_URL_STATE,
   alertListUrlSchema,

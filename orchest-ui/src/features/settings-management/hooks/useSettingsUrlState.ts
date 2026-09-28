@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { FilterValue } from '@/shared/constants/status';
 import {
   DEFAULT_SETTINGS_URL_STATE,

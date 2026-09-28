@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { processInstanceService } from "@/api/domains";
 import type { ProcessInstanceDTO, SequenceExecution } from "@/api/types/orchest-api";
 import { extractChildInstanceInfo } from "@/shared/diagram/utils/childInstanceExtractor";

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { useIsDarkMode } from "@/shared/stores/uiStore";
 import React, { useEffect, useRef } from "react";
 import { Content, JSONEditor, Mode } from "vanilla-jsoneditor";

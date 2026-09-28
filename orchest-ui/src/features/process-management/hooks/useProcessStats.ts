@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { statsService } from "@/api/domains";
 import { useApiQuery } from "@/shared/hooks";
 import { queryKeys } from "@/shared/constants/queryKeys";

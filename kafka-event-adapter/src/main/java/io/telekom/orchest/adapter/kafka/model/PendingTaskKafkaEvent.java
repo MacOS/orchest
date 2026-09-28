@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 package io.telekom.orchest.adapter.kafka.model;
 
 import static io.telekom.orchest.adapter.kafka.client.TopicConstant.SERVER_PENDING_TASK_EVENT_TOPIC;

@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+#
+# SPDX-License-Identifier: Apache-2.0
+
 # Example host-application configuration for the caching-entity starter.
 #
 # Every key under `telekom.cache.caches.<name>` is an OPTIONAL override for the

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { Activity, AlertTriangle, Bot, Search, Zap } from 'lucide-react';
 import React from 'react';
 import { SUGGESTED_PROMPTS } from '../../constants/chat.constants';

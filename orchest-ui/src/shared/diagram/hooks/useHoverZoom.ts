@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { RefObject, useEffect, useRef } from "react";
 import type { DiagramViewer } from "../types";
 

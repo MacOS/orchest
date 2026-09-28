@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { SecureStorage } from '@/shared/auth/services/SecureStorage';
 import { tokenManager } from '@/shared/auth/services/TokenManager';
 import { AuthErrorHandler, AuthErrorType } from '@/shared/auth/utils/authErrorHandler';

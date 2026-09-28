@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { ProcessInstance } from "@/shared/types";
 import { InstanceSummary, StatusBadge, SummaryField } from "@/shared/components";
 import { Activity, Calendar, CheckCircle2, ExternalLink, GitBranch, Tag, Workflow } from "lucide-react";

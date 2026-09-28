@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import type { RateLimit } from "@/api/domains";
 import { Badge } from "@/design-system/components/ui/badge/badge";
 import { DataTable, type PaginationConfig } from "@/shared/components";

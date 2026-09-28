@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 package io.telekom.orchest.orchestrest.configurations;
 
 import io.swagger.v3.oas.models.OpenAPI;
@@ -36,7 +40,7 @@ public class OpenAPIConfig {
                 .version("1.0.0")
                 .contact(
                     new Contact().name("DOT Team Tyrell").email("teamtyrell@telekom-digital.com"))
-                .license(new License().name("Proprietary license"))
+                .license(new License().name("Apache License, Version 2.0"))
                 .extensions(Map.of("x-api-category", "other")))
         .servers(
             List.of(

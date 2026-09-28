@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 /**
  * Consistent Orchest glyph set — 16×16 viewBox, 1.5px stroke language
  * (Lucide-like: round caps/joins, geometric, single visual weight).

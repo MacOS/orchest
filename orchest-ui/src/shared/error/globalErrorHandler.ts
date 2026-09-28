@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { AxiosError } from 'axios';
 import { toast } from '@/design-system/components/ui/sonner';
 import { ERROR_HANDLER_CONFIG } from '@/shared/constants/apiConfig';

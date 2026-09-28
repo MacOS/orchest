@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import clsx from "clsx";
 import * as ResizablePrimitive from "react-resizable-panels";
 import styles from "./resizable.module.css";

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 // Main Components
 export { default as BpmnViewer } from './BpmnViewer/BpmnViewer';
 export { default as CompactProcessTable } from './CompactProcessTable/CompactProcessTable';

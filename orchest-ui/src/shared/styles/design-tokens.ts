@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 /** Motion & glass design tokens for JS/TS consumers (Framer Motion, etc.) */
 
 export const motion = {

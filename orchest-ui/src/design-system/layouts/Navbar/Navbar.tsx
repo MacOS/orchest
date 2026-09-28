@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { MOCK_ROLES_STORAGE_KEY, useAuth } from '@/shared/auth';
 import { TelekomLogoMark } from '@/shared/components/OrchLogo';
 import { environment, EVENT_NAMES, NAV_ITEMS, TIMING } from '@/shared/constants';

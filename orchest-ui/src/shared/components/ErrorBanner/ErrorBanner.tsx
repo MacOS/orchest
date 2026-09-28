@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { AlertCircle } from "lucide-react";
 import React from "react";
 import styles from './ErrorBanner.module.css';

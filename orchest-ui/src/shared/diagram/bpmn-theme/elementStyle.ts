@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { getBusinessObject, is, isAny } from "bpmn-js/lib/util/ModelUtil";
 import { isTypedEvent } from "bpmn-js/lib/draw/BpmnRenderUtil";
 import { PHASE1_ELEMENT_TYPES, TYPE_ICON_MAP, type OrchestIconKey } from "./icons/iconPaths";

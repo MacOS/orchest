@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { toISODateTime } from '@/api/core/utils/dateUtils';
 
 const YMD = /^\d{4}-\d{2}-\d{2}$/;

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { useDebounce } from '@/shared/hooks/useDebounce';
 import { useCallback, useEffect, useRef, useState } from 'react';
 import type { UrlHistoryMode } from '../types';

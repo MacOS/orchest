@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { processDefinitionService } from '@/api/domains';
 import { Combobox } from '@/design-system/components/ui/combobox';
 import { StandardModal } from '@/shared/components/StandardModal/StandardModal';

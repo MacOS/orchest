@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 export type TenantId = 'MOBILE' | 'FIXED' | 'OTT';
 
 export const TENANT_OPTIONS: { value: TenantId; label: string }[] = [

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 /**
  * Orchest BPMN visual theme tokens (Phase 1).
  * Canvas stays light; accents distinguish element types.

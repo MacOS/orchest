@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { SpinnerLoader } from '@/shared/components/Loader/Loader';
 import clsx from 'clsx';
 import type { InfiniteScrollConfig } from '../../types';

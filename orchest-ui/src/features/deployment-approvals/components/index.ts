@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 export { ApprovalDetailView } from './ApprovalDetailView/ApprovalDetailView';
 export { ApprovalListView } from './ApprovalListView/ApprovalListView';
 export { DeputyManagementView } from './DeputyManagementView/DeputyManagementView';

@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 /* Match ProcessList table content font size */
 .cellText {
   font-size: var(--font-size-body);

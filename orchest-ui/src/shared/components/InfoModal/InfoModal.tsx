@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import React from "react";
 import { StandardModal, StandardModalProps } from "@/shared/components/StandardModal/StandardModal";
 import { ModalBanner, ModalBannerType } from "@/shared/components/ModalBanner/ModalBanner";

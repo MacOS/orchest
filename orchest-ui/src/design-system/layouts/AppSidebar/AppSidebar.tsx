@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { useAuth } from "@/shared/auth";
 import { NAV_ITEMS } from "@/shared/constants/navigationConfig";
 import { useUIStore } from "@/shared/stores/uiStore";

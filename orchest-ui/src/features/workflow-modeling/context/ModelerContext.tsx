@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { STORAGE_KEYS } from "@/shared/constants";
 import { useUIStore } from "@/shared/stores/uiStore";
 import React, { createContext, ReactNode, useCallback, useContext, useMemo, useState } from "react";

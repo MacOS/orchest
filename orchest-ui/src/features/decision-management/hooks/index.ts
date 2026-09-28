@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 export { useDecisionDefinitions } from './useDecisionDefinitions';
 export { useDecisionInstances } from './useDecisionInstances';
 export { useDecisionStats, type DecisionStats } from './useDecisionStats';

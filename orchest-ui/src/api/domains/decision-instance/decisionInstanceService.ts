@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { httpClient } from '@/api/core';
 import { BaseApiService } from '@/api/core/BaseApiService';
 import { toISODateTime } from '@/api/core/utils/dateUtils';

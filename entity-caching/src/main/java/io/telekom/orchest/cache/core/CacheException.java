@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 package io.telekom.orchest.cache.core;
 
 /** Runtime exception thrown when a cache operation fails (e.g. loader error, refresh timeout). */

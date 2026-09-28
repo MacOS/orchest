@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { Button, type ButtonProps } from "@/design-system/components/ui/button";
 import { AlertTriangle, Ban, CirclePlus, CircleX, Download, Eye, EyeOff, Filter, Pencil, Play, Plus, RefreshCw, Rewind, RotateCcw, Trash2, X } from "lucide-react";
 import React from "react";

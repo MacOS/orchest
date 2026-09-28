@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { processDefinitionService } from '@/api/domains';
 import { processStateService, type ProcessState } from '@/api/domains/process-state';
 import { activityStateService, type ActivityState } from '@/api/domains/activity-state';

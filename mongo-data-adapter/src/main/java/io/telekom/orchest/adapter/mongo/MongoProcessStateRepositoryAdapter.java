@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 package io.telekom.orchest.adapter.mongo;
 
 import io.telekom.orchest.adapter.mongo.mapper.ProcessStateMapper;

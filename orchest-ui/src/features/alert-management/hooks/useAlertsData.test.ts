@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { beforeEach, describe, expect, it, vi } from 'vitest';
 import { DEFAULT_ALERT_LIST_URL_STATE } from '@/shared/url-state/configs/alertListUrlState';
 import { useAlertsData } from './useAlertsData';

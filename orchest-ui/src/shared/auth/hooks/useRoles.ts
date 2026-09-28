@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { useMemo } from 'react';
 import { useAuth } from '../context/AuthContext';
 import { UserRoles } from '../models/roles';

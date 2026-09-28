@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { PROCESS_FILTER_ALL_VALUE } from '@/shared/utils/filterUtils';
 
 export const ALL_PROCESSES_OPTION = {

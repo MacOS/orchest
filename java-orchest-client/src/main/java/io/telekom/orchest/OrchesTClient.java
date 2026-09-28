@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 package io.telekom.orchest;
 
 import static io.telekom.orchest.adapter.kafka.model.TopicConstant.CLIENT_COMMON_WORKER_EVENT_TOPIC;

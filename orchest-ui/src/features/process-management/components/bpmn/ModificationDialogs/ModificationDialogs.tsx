@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { StandardModal } from "@/shared/components/StandardModal/StandardModal";
 import { Button } from "@/design-system/components/ui/button";
 import styles from "./ModificationDialogs.module.css";

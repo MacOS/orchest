@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import * as AccordionPrimitive from "@radix-ui/react-accordion";
 import clsx from "clsx";
 import { ChevronDown } from "lucide-react";

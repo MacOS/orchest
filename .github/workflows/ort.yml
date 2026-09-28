@@ -1,4 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
 # SPDX-FileCopyrightText: 2026 Deutsche Telekom AG, 2026 Daniel Eder, 2026 Stefan Bachhofner
+#
+# SPDX-License-Identifier: Apache-2.0
 # SPDX-License-Identifier: CC0-1.0
 
 name: Open Source Review Toolkit (ORT) scanning

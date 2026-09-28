@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { WarningModal } from "@/shared/components";
 import React from "react";
 import { ProcessVariable } from "@/features/process-management/types/processInstance";

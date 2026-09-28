@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+#
+# SPDX-License-Identifier: CC0-1.0
+
 name: 'Feature request'
 description: 'Submit a feature request for a new OrchesT feature.'
 title: '[ENH]: <Write a short and informative title>'

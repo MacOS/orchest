@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { environment } from '@/shared/constants/environment';
 import { STORAGE_KEYS } from '@/shared/constants/storageConstants';
 import { isValidRedirectUrl } from '@/shared/utils/urlValidation';

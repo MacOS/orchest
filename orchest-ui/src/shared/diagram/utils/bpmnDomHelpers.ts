@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import type { ChildInstanceRef } from '@/shared/diagram/utils/childInstanceExtractor';
 import type { ElementDetailSection } from '@/shared/diagram/utils/extractBpmnElementDetails';
 import styles from './bpmnDomHelpers.module.css';

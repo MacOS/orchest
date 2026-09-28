@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { useIntersectionLoader } from "@/shared/hooks/useIntersectionLoader";
 import { useVirtualizer } from "@tanstack/react-virtual";
 import clsx from "clsx";

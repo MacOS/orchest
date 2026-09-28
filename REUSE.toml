@@ -1,0 +1,18 @@
+# SPDX-FileCopyrightText: 2024 Deutsche Telekom AG
+#
+# SPDX-License-Identifier: CC0-1.0
+
+# See https://reuse.software/spec-3.2/#reusetoml for specification
+version = 1
+
+[[annotations]]
+path = ["gradlew", "gradlew.bat"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2015-2021 the original authors"
+SPDX-License-Identifier = "Apache-2.0"
+
+[[annotations]]
+path = ["orchest-ui/src/features/workflow-modeling/BpmnConnectorConfiguration/index.js"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Camunda Services GmbH"
+SPDX-License-Identifier = "MIT"

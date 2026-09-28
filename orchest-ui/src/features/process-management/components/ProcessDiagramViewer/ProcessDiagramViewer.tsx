@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { SpinnerLoader } from "@/shared/components/Loader/Loader";
 import GenericDiagramViewer from "@/shared/diagram/components/GenericDiagramViewer/GenericDiagramViewer";
 import React, { lazy, Suspense } from "react";

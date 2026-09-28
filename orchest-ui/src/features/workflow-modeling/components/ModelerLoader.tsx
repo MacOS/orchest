@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import React from 'react';
 import { OrchLogo } from '@/shared/components/OrchLogo';
 import { ModelerType, MODELER_TITLES } from '../constants';

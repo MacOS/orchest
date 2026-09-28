@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { Button } from "@/design-system/components/ui/button";
 import { useAuth } from "@/shared/auth/context/AuthContext";
 import { useAuthRedirect } from "@/shared/auth/hooks/useAuthRedirect";

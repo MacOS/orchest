@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { Button } from "@/design-system/components/ui/button";
 import clsx from "clsx";
 import React, { useCallback, useEffect } from 'react';

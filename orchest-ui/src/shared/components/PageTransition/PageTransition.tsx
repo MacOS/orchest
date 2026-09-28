@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { m } from 'framer-motion';
 import { memo, type ReactNode } from 'react';
 import { pageTransition } from '@/shared/styles/design-tokens';

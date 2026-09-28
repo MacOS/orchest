@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { useAuth } from '@/shared/auth/context/AuthContext';
 import { getRedirectUrl } from '@/shared/auth/utils/redirectUtils';
 import { useEffect } from 'react';

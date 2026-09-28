@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { connectorService } from "@/api/domains";
 import { toast } from "@/design-system/components/ui/sonner";
 import ConnectorsExtensionModule from "@/features/workflow-modeling/BpmnConnectorConfiguration";

@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 export enum UserRoles {
   ADMIN = 'ORCHEST_ADMIN',    // Admin access - all actions allowed
   VIEWER = 'ORCHEST_READ_SENSITIVE',  // Viewer access - can view most content but not sensitive data

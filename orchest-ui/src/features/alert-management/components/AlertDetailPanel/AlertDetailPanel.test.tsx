@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import type { AlertResponse } from '@/api/domains/alerts';
 import { act } from 'react';
 import { createRoot, type Root } from 'react-dom/client';

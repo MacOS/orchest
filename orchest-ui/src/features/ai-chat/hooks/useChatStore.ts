@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import { create } from 'zustand';
 import { persist, type StateStorage } from 'zustand/middleware';
 import { v4 as uuid } from 'uuid';

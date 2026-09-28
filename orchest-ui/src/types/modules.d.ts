@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 type ModuleType = Record<string, unknown>;
 
 declare module '*.module.css' {

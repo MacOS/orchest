@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 package io.telekom.orchest.orchestrest.configurations;
 
 import de.telekom.solutions.kmsclient.EnableKMS;

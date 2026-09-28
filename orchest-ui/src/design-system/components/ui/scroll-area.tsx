@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import * as ScrollAreaPrimitive from "@radix-ui/react-scroll-area";
 import clsx from "clsx";
 import * as React from "react";

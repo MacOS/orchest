@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Deutsche Telekom AG
+//
+// SPDX-License-Identifier: Apache-2.0
+
 import GenericDiagramViewer from "@/shared/diagram/components/GenericDiagramViewer/GenericDiagramViewer";
 import DmnViewer from "@/shared/diagram/components/DmnViewer/DmnViewer";
 import React from "react";
